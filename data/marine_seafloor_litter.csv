@@ -1,0 +1,46 @@
+Event,Station,Date/Time,Latitude,Longitude,Elevation [m],Litter obj,Litter cat,Litter fish
+HE419/004-8,H1,2021-02-14 07:18:00,54.0498,8.0828,-18,plastic fragment,plastics,no
+HE419/004-8,H1,2021-02-14 11:42:00,54.0498,8.0828,-18,metal texture,metal,no
+HE419/004-8,H1,2021-03-22 07:18:00,54.0498,8.0828,-18,glass bottle,glass,no
+HE419/007-6,M03,2021-05-09 18:17:00,54.1355,7.0443,-32,net fiber,plastics,yes
+HE419/009-5,M05,2021-08-04 23:14:00,54.2122,6.4518,-34,net fiber,plastics,yes
+HE419/009-5,M05,2021-08-11 14:05:00,54.2122,6.4518,-34,net fiber,plastics,yes
+HE419/009-5,M05,2021-08-25 09:33:00,54.2122,6.4518,-34,net fiber,plastics,yes
+HE419/010-5,M67,2021-11-03 02:01:00,54.1107,6.0908,-29,net fiber,plastics,yes
+HE419/011-6,M66,2022-01-18 03:41:00,54.1597,6.1593,-32,net fiber,plastics,yes
+HE419/011-6,M66,2022-03-05 16:21:00,54.1597,6.1593,-32,plastic foil,plastics,no
+HE419/011-6,M66,2022-04-12 03:41:00,54.1597,6.1593,-32,piece of beverage can,metal,no
+HE419/012-3,M68,2022-06-21 05:59:00,54.2255,6.2318,-33,net fiber,plastics,yes
+HE419/012-3,M68,2022-07-02 18:14:00,54.2255,6.2318,-33,net fiber,plastics,yes
+HE419/012-3,M68,2022-07-15 11:59:00,54.2255,6.2318,-33,net fiber,plastics,yes
+HE419/012-3,M68,2022-07-29 22:40:00,54.2255,6.2318,-33,plastic foil,plastics,no
+HE419/013-5,M06,2022-09-08 08:20:00,54.311,6.4655,-33,net fiber,plastics,yes
+HE419/014-7,M07,2022-10-14 10:39:00,54.4182,6.6103,-35,net fiber,plastics,yes
+HE419/014-7,M07,2022-11-20 10:39:00,54.4182,6.6103,-35,net fiber,plastics,yes
+HE419/014-7,M07,2023-01-05 10:39:00,54.4182,6.6103,-35,net fiber,plastics,yes
+HE419/016-5,M10,2023-03-12 16:00:00,54.6177,6.065,-38,plastic foil,plastics,no
+HE419/017-5,M09,2023-05-18 19:16:00,54.6162,6.3837,-36,plastic bag,plastics,no
+HE419/024-5,M101,2023-07-04 15:02:00,54.8985,7.0187,-26,net fiber,plastics,yes
+HE419/024-5,M101,2023-07-19 12:45:00,54.8985,7.0187,-26,net fiber,plastics,yes
+HE419/026-9,WB,2023-08-01 20:20:00,54.9985,6.5,-42,plastic foil,plastics,no
+HE419/026-9,WB,2023-08-14 10:15:00,54.9985,6.5,-42,plastic foil,plastics,no
+HE419/027-7,M79,2023-08-22 22:35:00,54.9312,6.4383,-40,plastic rope,plastics,yes
+HE419/027-7,M79,2023-09-05 14:10:00,54.9312,6.4383,-40,net fiber,plastics,yes
+HE419/027-7,M79,2023-11-11 22:35:00,54.9312,6.4383,-40,net fiber,plastics,yes
+HE419/027-7,M79,2024-01-25 04:12:00,54.9312,6.4383,-40,net fiber,plastics,yes
+HE419/027-7,M79,2024-03-09 22:35:00,54.9312,6.4383,-40,net fiber,plastics,yes
+HE419/027-7,M79,2024-05-14 18:22:00,54.9312,6.4383,-40,net fiber,plastics,yes
+HE419/027-7,M79,2024-07-02 22:35:00,54.9312,6.4383,-40,net fiber,plastics,yes
+HE419/027-7,M79,2024-07-15 09:44:00,54.9312,6.4383,-40,net fiber,plastics,yes
+HE419/027-7,M79,2024-08-04 13:21:00,54.9312,6.4383,-40,net fiber,plastics,yes
+HE419/027-7,M79,2024-08-19 22:35:00,54.9312,6.4383,-40,piece of fishing net,plastics,yes
+HE419/027-7,M79,2024-09-02 07:55:00,54.9312,6.4383,-40,net fiber,plastics,yes
+HE419/027-7,M79,2024-10-18 22:35:00,54.9312,6.4383,-40,net fiber,plastics,yes
+HE419/028-5,M13,2025-01-05 0:32:00,54.9048,6.2068,-38,net fiber,plastics,yes
+HE419/028-5,M13,2025-03-14 11:24:00,54.9048,6.2068,-38,net fiber,plastics,yes
+HE419/028-5,M13,2025-05-20 0:32:00,54.9048,6.2068,-38,net fiber,plastics,yes
+HE419/028-5,M13,2025-07-08 19:40:00,54.9048,6.2068,-38,net fiber,plastics,yes
+HE419/028-5,M13,2025-07-22 01:15:00,54.9048,6.2068,-38,net fiber,plastics,yes
+HE419/028-5,M13,2025-08-05 00:32:00,54.9048,6.2068,-38,net fiber,plastics,yes
+HE419/028-5,M13,2025-08-19 14:50:00,54.9048,6.2068,-38,net fiber,plastics,yes
+HE419/028-5,M13,2025-09-02 00:32:00,54.9048,6.2068,-38,net fiber,plastics,yes
